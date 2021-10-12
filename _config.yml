@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "문예인"
-  avatar           : "/assets/images/제목 없음.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatormihyuk.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "FOR HAFS MONBEBE"
   location         : "대한민국, 서울"
   email            : "21-20311@hafs.hs.kr" 
